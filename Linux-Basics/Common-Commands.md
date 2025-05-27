@@ -17,7 +17,7 @@
 | `cp`      | Copy files or directories          |
 | `mv`      | Move or rename files and directories |
 
-![Linux Terminal](Images/linux_terminal1.PNG)
+![Linux Terminal](/Images/linux_terminal1.PNG)
 
 ---
 
