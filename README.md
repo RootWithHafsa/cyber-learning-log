@@ -14,7 +14,7 @@ Hi! I’m Hafsa Saif, a student who enjoys breaking things—like systems and se
 
 | Folder/File            | Description                                      |
 |------------------------|--------------------------------------------------|
-| `Linux-Basics.`        | Notes on Linux commands, permissions, and usage |
+| `Linux-Basics`         | Notes on Linux commands, permissions, and usage |
 | `Networking_Notes`     | Understanding IP, DNS, firewalls, etc.          |
 | `CTF_Writeups.md`      | Capture The Flag challenge solutions            |
 | `Cyber_Tools.md`       | Tools I'm learning (Nmap, Wireshark, etc.)      |
