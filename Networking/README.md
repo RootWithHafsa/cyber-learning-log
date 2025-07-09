@@ -4,7 +4,7 @@ This folder contains my notes, tools, and practical labs related to computer net
 
 ## 📚 Topics Covered
 
-- OSI & TCP/IP Models
+- OSI Model
 - IP Addressing & Subnetting
 - ARP, DNS, DHCP
 - TCP vs UDP
